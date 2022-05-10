@@ -8,18 +8,20 @@ https://public.tableau.com/app/profile/sophie.hearn6553/viz/NYCCitiBikes_1651970
 
 ## Results
 
-We learned that the majority of trips are under 20 minutes in length. (Image1)
+We learned that the majority of trips are under 20 minutes in length. ![Image1](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image1.png?raw=true)
 
-This holds true across gender. (Image2)
+This holds true across gender. ![Image2](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image2.png?raw=true)
 
 Typically on weekdays, usage tends to be heaviest around rush hour. 
-(Image3)
+![Image3](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/Image3.png?raw=true)
 
-This also holds true across gender, but with the majority of rides taken by men. (Image4)
+This also holds true across gender, but with the majority of rides taken by men. ![Image4](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image4.png?raw=true)
 
-Subscribers tend to ride more during the weekdays, and customers tend to ride more on weekends. (image5)
+Subscribers tend to ride more during the weekdays, and customers tend to ride more on weekends. ![Image5](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image5.png?raw=true)
 
-Our most used start and end stations tend to be near downtown areas. (Image6+7)
+Our most used start and end stations tend to be near downtown areas. ![Image6](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image%206.png?raw=true)
+![Image7](https://github.com/sophiehearn/bikeshare_challenge/blob/main/images/image7.png?raw=true)
+
 
 ## Summary 
 
